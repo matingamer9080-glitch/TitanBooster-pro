@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TITAN BOOSTER PRO</string>
+    <string name="boost_now">BOOST NOW!</string>
+    <string name="stop_boost">STOP BOOST</string>
+    <string name="ready_to_boost">READY TO BOOST</string>
+    <string name="boost_active">BOOST ACTIVE</string>
+    <string name="clean_ram">پاک‌سازی RAM</string>
+    <string name="clean_cache">پاک‌سازی کش سیستم</string>
+    <string name="device_info">اطلاعات دستگاه</string>
+    <string name="game_mode">حالت بازی</string>
+    <string name="temperature">دمای سیستم</string>
+    <string name="network_optimizer">بهینه‌ساز شبکه</string>
+    <string name="rooted">ROOTED ✓</string>
+    <string name="unrooted">UNROOTED ✗</string>
+    <string name="active">ACTIVE</string>
+    <string name="inactive">INACTIVE</string>
+    <string name="ok">تأیید</string>
+</resources>
